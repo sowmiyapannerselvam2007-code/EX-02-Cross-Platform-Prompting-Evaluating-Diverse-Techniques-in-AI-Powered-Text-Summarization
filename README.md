@@ -341,6 +341,3 @@ Overall, ChatGPT with the Output Format Prompt provided the best balance of accu
 
 
 
-## Result
-
-
