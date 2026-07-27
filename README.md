@@ -19,6 +19,42 @@ Speed
 User experience
 
 ## Algorithm
+tep 1: Select the Topic
+
+Choose a technical article for summarization.
+
+Selected Topic: The Basics of Blockchain Technology
+
+The article includes:
+
+1.Definition of blockchain
+2.Decentralized ledger concept
+3.Blocks and cryptographic hashing
+4.Consensus mechanisms
+5.Applications of blockchain
+6.Advantages and challenges
+
+Step 2: Choose AI Platforms
+
+The following AI tools were selected for experimentation:
+
+1.ChatGPT
+2.Google Gemini
+3.Claude AI
+4.Microsoft Copilot
+Step 3: Prepare Prompting Techniques
+
+Five prompting strategies were used.
+
+A. Basic Prompt
+
+The AI is directly asked to summarize the article.
+
+Example:
+
+Summarize the following article on "The Basics of Blockchain Technology" in simple English for undergraduate students.
+
+
 
 ## Result
 
