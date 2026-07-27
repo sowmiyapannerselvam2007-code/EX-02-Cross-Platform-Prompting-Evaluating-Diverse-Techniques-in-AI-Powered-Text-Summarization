@@ -102,12 +102,14 @@ Simplicity
 Speed
 User Experience
 
-Result
-ChatGPT + Basic Prompt
+## Result
+
+## ChatGPT + Basic Prompt
+
 Prompt Used
 Summarize the following article on "The Basics of Blockchain Technology" in simple English for undergraduate students.
 
-Summary: The Basics of Blockchain Technology
+## Summary: The Basics of Blockchain Technology
 
 Blockchain is a secure digital technology that stores data across many computers instead of one central system. Information is saved in connected blocks, each containing transaction details, a timestamp, and a unique hash, making the data secure and difficult to change.
 
@@ -119,14 +121,15 @@ The main advantages of blockchain are security, transparency, decentralization, 
 
 Overall, blockchain is an important emerging technology that provides secure and reliable data sharing and is expected to have a major impact on many industries in the future.
 
-Evaluation:
+## Evaluation:
 1.Accuracy: High
 2.Coherence: Excellent
 3.Simplicity: Excellent
 4.Speed: Very Fast
 5.User Experience: Excellent
 
-Google Gemini + Role Prompt
+## Google Gemini + Role Prompt
+
 Prompt Used:
 You are a university professor. Summarize the following article on "The Basics of Blockchain Technology" in simple English for undergraduate students.
 Summary: The Basics of Blockchain Technology
@@ -171,23 +174,24 @@ High security and transparency
 Reduced need for middlemen (like banks or intermediaries)
 Traceable records that make fraud very difficult
 
-Drawbacks:
+## Drawbacks:
 High energy consumption (particularly in networks using Proof of Work)
 
 Slower transaction speeds compared to centralized systems
 Large storage requirements and evolving government regulations
 
-Conclusion
+## Conclusion
 Blockchain is a transformative technology that allows secure, trustworthy, and transparent data sharing without relying on a central authority. As it evolves, it will continue to reshape major global industries.
 
-Evaluation
+## Evaluation
 1.Accuracy: Excellent
 2.Coherence: Excellent
 3.Simplicity: Excellent
 4.Speed: Fast
 5.User Experience: Very Good
 
-Claude AI + Context Prompt
+## Claude AI + Context Prompt
+
 Prompt Used:
 The summary is intended for undergraduate engineering students who have no prior knowledge of blockchain technology. Summarize the following article in clear and easy-to-understand language.
 What is Blockchain?
@@ -218,22 +222,25 @@ Smart contracts (agreements that execute automatically when conditions are met)
 
 Pros and Cons
 
-Advantages: transparency, security, decentralization, traceability, and less reliance on middlemen. Since records are permanent, fraud becomes harder to commit.
+## Advantages:
+Transparency, security, decentralization, traceability, and less reliance on middlemen. Since records are permanent, fraud becomes harder to commit.
 
-Challenges: high energy use (especially with PoW), scalability limits, slower transaction speeds, storage demands, and evolving government regulations.
+## Challenges: 
+High energy use (especially with PoW), scalability limits, slower transaction speeds, storage demands, and evolving government regulations.
 
 Why It Matters
 
 Blockchain is seen as a major emerging technology because it allows secure, transparent, and reliable data sharing without relying on a single central authority. As the technology matures, it's expected to play a growing role in finance, healthcare, education, and logistics.
 
-Evaluation
+## Evaluation
 1.Accuracy: Excellent
 2.Coherence: Excellent
 3.Simplicity: Excellent
 4.Speed: Moderate
 5.User Experience: Excellent
 
-Microsoft Copilot + Constraint Prompt
+## Microsoft Copilot + Constraint Prompt
+
 Prompt Used:
 Summarize the following article on "The Basics of Blockchain Technology" in less than 100 words using simple English and bullet points. Mention only the key concepts, applications, and challenges.
 
@@ -244,14 +251,15 @@ Blockchain technology is widely known for supporting cryptocurrencies such as Bi
 The technology offers several advantages, including transparency, security, decentralization, traceability, and reduced dependence on intermediaries. Since every transaction is recorded permanently, fraud becomes more difficult. However, blockchain also has some challenges. Public blockchain networks may consume large amounts of energy, especially those using Proof of Work. Scalability, transaction speed, storage requirements, and government regulations are additional issues that need continuous improvement.
 Overall, blockchain is considered one of the most important emerging technologies because it enables secure, transparent, and reliable data sharing across distributed networks. As research and development continue, blockchain is expected to play a significant role in finance, healthcare, education, logistics, and many other industries.
 
-Evaluation
+## Evaluation
 1.Accuracy: Good
 2.Coherence: Good
 3.Simplicity: Excellent
 4.Speed: Fast
 5.User Experience: Good
 
-ChatGPT + Output Format Prompt
+## ChatGPT + Output Format Prompt
+
 Prompt Used:
 Summarize the following article on "The Basics of Blockchain Technology" using the following format: Title Definition,Key Concepts,Applications,Advantages,Challenges,Conclusion
 
@@ -315,7 +323,7 @@ Comparison Table:
 | Microsoft Copilot | Constraint Prompt    | Good      | Good      | Excellent  | Fast      | Good            |
 | ChatGPT           | Output Format Prompt | Excellent | Excellent | Excellent  | Very Fast | Excellent       |
 
-Final Result
+## Final Result
 
 Different prompting techniques were tested across multiple AI platforms for summarizing a technical article on "The Basics of Blockchain Technology."
 
